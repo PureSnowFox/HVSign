@@ -5,3 +5,4 @@
 4. secret name:cookie     value: cookies obtained from the EH<br>
 5. done, Run automatically every day<br>
 PS. You can go to actions and run it manually
+PSS. use keyboard enter to add other accounts
